@@ -16,13 +16,19 @@ This is a FastAPI project.
     cd SheyLightDey-backend
     ```
 
-3. Create a virtual environment:
+3. Change to the desired branch:
+
+    ```sh
+    git checkout <branch-name>
+    ```
+
+4. Create a virtual environment:
 
     ```sh
     python -m venv env
     ```
 
-4. Activate the virtual environment:
+5. Activate the virtual environment:
     - On Windows:
 
         ```sh
@@ -35,7 +41,7 @@ This is a FastAPI project.
         source env/bin/activate
         ```
 
-5. Install the dependencies:
+6. Install the dependencies:
 
     ```sh
     pip install -r requirements.txt
