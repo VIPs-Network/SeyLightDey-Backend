@@ -1,6 +1,6 @@
 # Shey Light Dey 💡?
 
-This is a FastAPI project.
+A scalable, reliable, and secure backend infrastructure to support a real-time power outage tracking system that enables communities to share and access power availability information.
 
 ## Installation
 
